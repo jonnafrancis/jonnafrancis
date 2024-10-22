@@ -1,4 +1,16 @@
-## Hi there 👋
+# Welcome to My GitHub Profile!
+
+## About Me
+Hello! I’m Jonna Tolentino, a Mathematics with Finance and Accounting student at Queen Mary University of London. I’m passionate about programming, data analysis, and volleyball.
+
+## Skills
+- Python
+- Git & GitHub
+- RStudio
+
+## Contact
+Feel free to reach out via my email: jonnafrancis@myyahoo.com
+
 
 <!--
 **jonnafrancis/jonnafrancis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
